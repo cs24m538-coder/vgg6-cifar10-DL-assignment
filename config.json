@@ -1,0 +1,4 @@
+{
+  "activation": "silu",
+  "learning_rate": 0.001
+}
