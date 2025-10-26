@@ -36,6 +36,7 @@ A comprehensive deep learning project implementing VGG6 architecture on CIFAR-10
 ├── best_config.json # Best hyperparameters
 ├── baseline_config.json # Baseline configuration
 ├── experiment_summary.json # Experiment results
+├── config.json # Training configuration
 └── README.md # Project documentation
 
 ##  Installation & Usage
@@ -146,6 +147,10 @@ Inference Speed: ~1000 images/second on GPU
 Model Size: 1.2 MB
 
 Parameters: ~300,000
+
+**Verify model size:**
+```bash
+ls -lh trained_model.pth
 
 🤝 Contributing
 Feel free to fork this project and experiment with:
