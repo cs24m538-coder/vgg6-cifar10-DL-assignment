@@ -1,0 +1,10 @@
+{
+  "total_configurations": 16,
+  "best_accuracy": 85.82,
+  "best_config": "hyperparams_2",
+  "experiments": [
+    "6 activation functions tested",
+    "6 optimizers tested",
+    "Multiple hyperparameters"
+  ]
+}
